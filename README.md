@@ -6,8 +6,10 @@ The central mechanic of the game is that of choices. The player reads the text t
 
 **LAUNCH GUIDE**
 The Light is Fading is _technically_ broswer based, however, in the absence of a server on which to host it, you're going to have to do that yourself. Luckily, it's also not very big, so I'm sure you'll be fine. 
-1) Download the above files. 
-2) Open the index file.
+1) Download a ZIP of the above files.
+2) Extract the folder.
+3) Open the index file.
+4) Enjoy the story! 
 
 
 _The Light is Fading was developped using ink, Inkle's scripting language._
