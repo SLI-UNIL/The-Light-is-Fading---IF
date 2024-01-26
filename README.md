@@ -5,7 +5,8 @@ The Light is Fading is a short piece of interactive fiction exploring Alzheimer'
 The central mechanic of the game is that of choices. The player reads the text that appears, then picks the option that seems to them the most ideal one. Rinse and repeat until you arrive at the end of the story. 
 
 **LAUNCH GUIDE**
-1) Download the files in the folder.
+The Light is Fading is _technically_ broswer based, however, in the absence of a server on which to host it, you're going to have to do that yourself. Luckily, it's also not very big, so I'm sure you'll be fine. 
+1) Download the above files. 
 2) Open the index file.
 
 
